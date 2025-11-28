@@ -1,7 +1,6 @@
 # 💰 Conversor de Moedas
 
-![Screenshot do App](./assets/screenshot.png)
-> *Nota: Substitua `./assets/screenshot.png` pelo caminho real onde você salvou a imagem do seu app dentro do projeto, se ela estiver lá. Se não, pode remover essa linha.*
+![Screenshot do App](./assets/imagem-app.jpg)
 
 ## 📖 Sobre
 
