@@ -39,6 +39,9 @@ Siga os passos abaixo para baixar e executar o aplicativo no seu ambiente de des
 
 **1. Clone o repositório**
 
-```bash
 git clone [https://github.com/ArthurTorres1/app-currency-converter.git](https://github.com/ArthurTorres1/app-currency-converter.git)
 cd app-currency-converter
+
+### Comando de inicialização
+npm install -- para instalar as dependências
+npx expo start
